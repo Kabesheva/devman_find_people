@@ -1,2 +1,2 @@
-# devman_find_people
+# Создаём человеков
 devman_06
